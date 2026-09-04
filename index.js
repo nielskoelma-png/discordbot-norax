@@ -33,7 +33,7 @@ client.cooldowns = new Collection();
 // ─────────────────────────────────────────────
 // Events
 // ─────────────────────────────────────────────
-
+//test
 client.once('clientReady', () => {
     console.log('────────────────────────────────────');
     console.log(`🤖 Logged in as ${client.user.tag}`);
